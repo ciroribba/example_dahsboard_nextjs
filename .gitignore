@@ -3,3 +3,6 @@
 node_modules
 *.gz
 *.old
+.next/
+.next/cache/
+.next/cache/webpack/
